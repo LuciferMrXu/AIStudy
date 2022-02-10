@@ -1,5 +1,0 @@
-hello python
-tangyudi 123
-ML 456
-DL 789
-data 234

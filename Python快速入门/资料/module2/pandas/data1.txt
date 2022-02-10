@@ -1,4 +1,0 @@
-name::age::count
-ronaldo::33::4
-messi::30::1
-mubapei::18::4                                                  
